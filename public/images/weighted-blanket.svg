@@ -1,0 +1,15 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="500" fill="#F5F6FC"/>
+  <path d="M80 100 L320 100 Q330 100 330 110 L330 450 Q330 460 320 460 L80 460 Q70 460 70 450 L70 110 Q70 100 80 100 Z" fill="#F5E6D3" opacity="0.8" stroke="#E8D4B8" stroke-width="1"/>
+  <path d="M90 120 L310 120" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 150 L310 150" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 180 L310 180" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 210 L310 210" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 240 L310 240" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 270 L310 270" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 300 L310 300" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 330 L310 330" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 360 L310 360" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 390 L310 390" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+  <path d="M90 420 L310 420" stroke="#E8D4B8" stroke-width="1" opacity="0.5"/>
+</svg>

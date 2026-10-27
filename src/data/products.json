@@ -1,0 +1,182 @@
+[
+  {
+    "id": "prod-1",
+    "title": "The capsule dock",
+    "price": 18.99,
+    "category": "Homewares",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/capsule-dock.svg",
+    "imageDescription": "Minimalist matte dark-grey countertop organizer tray holding two amber glass dropper bottles with a sleek floating black bar above."
+  },
+  {
+    "id": "prod-2",
+    "title": "Soloset brewer",
+    "price": 1650.00,
+    "category": "Homewares",
+    "aspectRatio": "tall",
+    "inCart": true,
+    "image": "/images/soloset-brewer.svg",
+    "imageDescription": "Sleek matte-black single-serve espresso pod machine ('KANU BARISTA') with a clear glass mug holding fresh dark espresso with crema."
+  },
+  {
+    "id": "prod-3",
+    "title": "Aqua pods",
+    "price": 5.99,
+    "category": "Homewares",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/aqua-pods.svg",
+    "imageDescription": "Two translucent mint-green oval gel/soap pods resting at an angle."
+  },
+  {
+    "id": "prod-4",
+    "title": "Monolith chef knife",
+    "price": 47.79,
+    "category": "Homewares",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/monolith-knife.svg",
+    "imageDescription": "All-black matte stealth Santoku/chef knife with an integrated handle, oriented horizontally."
+  },
+  {
+    "id": "prod-5",
+    "title": "Unwind balm sticks",
+    "price": 49.94,
+    "category": "Homewares",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/unwind-balm.svg",
+    "imageDescription": "Three minimalist cylindrical deodorant/balm tubes (matte black, light grey, and off-white) standing vertically side-by-side."
+  },
+  {
+    "id": "prod-6",
+    "title": "Pillar pet hook",
+    "price": 23.00,
+    "category": "Homewares",
+    "aspectRatio": "tall",
+    "inCart": false,
+    "image": "/images/pillar-pet-hook.svg",
+    "imageDescription": "Matte black sculptural minimalist cat-shaped object with arched legs and an upright tail."
+  },
+  {
+    "id": "prod-7",
+    "title": "Ambient glow lamp",
+    "price": 89.00,
+    "category": "Lighting",
+    "aspectRatio": "tall",
+    "inCart": false,
+    "image": "/images/ambient-lamp.svg",
+    "imageDescription": "Minimalist cylindrical table lamp with warm diffused light, matte sand-colored base."
+  },
+  {
+    "id": "prod-8",
+    "title": "Pendant light duo",
+    "price": 145.00,
+    "category": "Lighting",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/pendant-light.svg",
+    "imageDescription": "Two matte black pendant lights with frosted glass shades hanging at staggered heights."
+  },
+  {
+    "id": "prod-9",
+    "title": "Ceramic chef set",
+    "price": 120.00,
+    "category": "Kitchen",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/ceramic-set.svg",
+    "imageDescription": "White ceramic knife block with four matte black blades standing upright."
+  },
+  {
+    "id": "prod-10",
+    "title": "Precision scale",
+    "price": 42.00,
+    "category": "Kitchen",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/precision-scale.svg",
+    "imageDescription": "Minimalist digital kitchen scale in matte white with hidden LED display."
+  },
+  {
+    "id": "prod-11",
+    "title": "Wireless earbuds pro",
+    "price": 249.00,
+    "category": "Audio",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/earbuds.svg",
+    "imageDescription": "Matte stone-colored wireless earbuds case with matching buds, soft rounded edges."
+  },
+  {
+    "id": "prod-12",
+    "title": "Desktop speaker",
+    "price": 189.00,
+    "category": "Audio",
+    "aspectRatio": "tall",
+    "inCart": false,
+    "image": "/images/desktop-speaker.svg",
+    "imageDescription": "Cylindrical wireless speaker in warm grey fabric with brass accent ring."
+  },
+  {
+    "id": "prod-13",
+    "title": "Aroma diffuser",
+    "price": 68.00,
+    "category": "Wellness",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/aroma-diffuser.svg",
+    "imageDescription": "Stone-textured ultrasonic diffuser in warm beige with subtle LED ring."
+  },
+  {
+    "id": "prod-14",
+    "title": "Weighted blanket",
+    "price": 155.00,
+    "category": "Wellness",
+    "aspectRatio": "tall",
+    "inCart": false,
+    "image": "/images/weighted-blanket.svg",
+    "imageDescription": "Chunky knit weighted blanket in soft oatmeal tone, draped naturally."
+  },
+  {
+    "id": "prod-15",
+    "title": "Multi-port charger",
+    "price": 54.00,
+    "category": "Charging",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/multi-charger.svg",
+    "imageDescription": "Compact 65W GaN charger in matte charcoal with foldable prongs."
+  },
+  {
+    "id": "prod-16",
+    "title": "Wireless charging pad",
+    "price": 38.00,
+    "category": "Charging",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/wireless-pad.svg",
+    "imageDescription": "Ultra-thin circular wireless charger in soft sandstone with subtle alignment ring."
+  },
+  {
+    "id": "prod-17",
+    "title": "Smart doorbell",
+    "price": 199.00,
+    "category": "Security",
+    "aspectRatio": "tall",
+    "inCart": false,
+    "image": "/images/doorbell.svg",
+    "imageDescription": "Slim vertical video doorbell in matte black with circular camera lens."
+  },
+  {
+    "id": "prod-18",
+    "title": "Indoor camera",
+    "price": 89.00,
+    "category": "Security",
+    "aspectRatio": "standard",
+    "inCart": false,
+    "image": "/images/indoor-camera.svg",
+    "imageDescription": "Compact spherical indoor security camera on minimal stand, matte white."
+  }
+]
